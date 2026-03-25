@@ -9,7 +9,7 @@
 
 
 - Low-level C++ — memory, drivers, processes
-- Reverse engineering game internals — UE4, Unity, IL2CPP, Mono
+- Reverse engineering game internals — UE4, Unity, IL2CPP, Mono, Source
 - IDA Pro for static analysis and binary reversing
 - Building tools that interact with things they shouldn't
 
