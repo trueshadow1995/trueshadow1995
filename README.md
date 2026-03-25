@@ -6,7 +6,7 @@
 
 ---
 
-## `> whoami`
+
 
 - Low-level C++ — memory, drivers, processes
 - Reverse engineering game internals — UE4, Unity, IL2CPP, Mono
@@ -15,7 +15,7 @@
 
 ---
 
-## `> cat ./stats`
+
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ---
 
-## `> ls ./skills`
+
 
 <div align="center">
 
