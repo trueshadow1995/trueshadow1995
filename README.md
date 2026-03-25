@@ -28,20 +28,8 @@
 
 
 <div align="center">
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-blue?style=for-the-badge&logoColor=white)
-![ImGui](https://img.shields.io/badge/ImGui-FF69B4?style=for-the-badge&logoColor=white)
-
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-FF0000?style=for-the-badge&logoColor=white)
-![IL2CPP](https://img.shields.io/badge/IL2CPP-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Mono](https://img.shields.io/badge/Mono-6B44A6?style=for-the-badge&logoColor=white)
-![Kernel Drivers](https://img.shields.io/badge/Kernel%20Drivers-111111?style=for-the-badge&logoColor=00FF41)
-
 </div>
